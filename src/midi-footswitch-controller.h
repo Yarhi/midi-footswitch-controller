@@ -6,3 +6,6 @@
 #include <iostream>
 
 // TODO: Référencez ici les en-têtes supplémentaires nécessaires à votre programme.
+
+void read_exampledt(std::string filename);
+int get_file_size(std::string filename);
